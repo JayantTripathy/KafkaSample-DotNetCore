@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaSample.ProducerAPI", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaSample.Consumer", "KafkaSample.Consumer\KafkaSample.Consumer.csproj", "{54EE982B-0995-4DB2-92CF-447F09AB1E9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaSample.UnitTest", "KafkaSample.UnitTest\KafkaSample.UnitTest.csproj", "{CAE30E23-7C3D-4A8A-B114-BB42A210976B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaSample.IntegrationTest", "KafkaSample.IntegrationTest\KafkaSample.IntegrationTest.csproj", "{9B3E715A-CF2F-48CA-88D5-5B69600D6E4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{54EE982B-0995-4DB2-92CF-447F09AB1E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54EE982B-0995-4DB2-92CF-447F09AB1E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54EE982B-0995-4DB2-92CF-447F09AB1E9E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAE30E23-7C3D-4A8A-B114-BB42A210976B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAE30E23-7C3D-4A8A-B114-BB42A210976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAE30E23-7C3D-4A8A-B114-BB42A210976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAE30E23-7C3D-4A8A-B114-BB42A210976B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3E715A-CF2F-48CA-88D5-5B69600D6E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3E715A-CF2F-48CA-88D5-5B69600D6E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3E715A-CF2F-48CA-88D5-5B69600D6E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3E715A-CF2F-48CA-88D5-5B69600D6E4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
